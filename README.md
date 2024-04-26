@@ -70,4 +70,6 @@ The progress should update every 30 seconds.
 
 Note: You don't need any viewers watching your stream for this script to work. You can be alone in the voice channel.
 
-For any support, you can send me a friend request on Discord. (My Discord account is on the home page of my github account)
+<p align="center">
+  <a href="https://discord.com/users/1188569749068718234" target="_blank"><img src="https://lanyard.cnrad.dev/api/1188569749068718234?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
+</p>
