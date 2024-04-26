@@ -1,5 +1,9 @@
 # New Discord Badge - Completed a Quest
 
+## Badge?
+![badgee](https://cdn.discordapp.com/attachments/1189022662266208386/1233418932061470861/image.png?ex=662d0665&is=662bb4e5&hm=4d61b4cc47596d43b54e02ab3a543e77dd81654a50bcdca0369a6d66b2a7d2fe&)
+
+
 1.  Go to User Settings -> Gift Inventory and accept the quest.
     
 2.  Join a voice channel.
