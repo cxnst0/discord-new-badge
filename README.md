@@ -1,7 +1,7 @@
 # New Discord Badge - Completed a Quest
 
-## Badge?
-![badgee](https://cdn.discordapp.com/attachments/1189022662266208386/1233418932061470861/image.png?ex=662d0665&is=662bb4e5&hm=4d61b4cc47596d43b54e02ab3a543e77dd81654a50bcdca0369a6d66b2a7d2fe&)
+## IMPORTANT!
+Discord added additional requirements after the exploit gained popularity and made some higher-level api changes, breaking many scripts that weren't robust. However, since this script communicates with the Discord API directly, it survived. Despite this, the new requirements still need to be fulfilled. These requirements include using the Discord desktop or PTB app and streaming to another account.
 
 
 1.  Go to User Settings -> Gift Inventory and accept the quest.
