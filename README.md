@@ -1,24 +1,20 @@
 # New Discord Badge - Completed a Quest
 
 ## Badge?
-![badgee](https://cdn.discordapp.com/attachments/1189022662266208386/1233418932061470861/image.png?ex=662d0665&is=662bb4e5&hm=4d61b4cc47596d43b54e02ab3a543e77dd81654a50bcdca0369a6d66b2a7d2fe&)
+![dc_quest](https://github.com/cxnst0/discord-new-badge/assets/125211961/483bd0b5-9ae6-4f15-b79c-35a91b83583f)
 
 
-1.  Go to User Settings -> Gift Inventory and accept the quest.
+1. **Install the Discord desktop or PTB app**
+
+2. Go to **User Settings** -> **Gift Inventory** and accept the quest.
     
-2.  Join a voice channel.
+3. Join a **VC** (Voice Channel) and stream anything, such as Notepad. Also, have one of your friends or alts watch the stream.
     
-3.  Start streaming any window, such as Notepad.
+4. Press `Ctrl + Shift + I` to open the dev tools.
+
+5.  Navigate to the **Console** tab.
     
-4.  Open the Developer Tools:
-    
-    *   If using the Discord desktop app, press Ctrl+Shift+I. If the Developer Tools don't open, try using Discord in a web browser instead.
-    *   If using Discord in a web browser:
-        *   For Chrome or Firefox, press F12 or Ctrl+Shift+I
-        *   For Safari, go to Preferences -> Advanced and check "Show Develop menu in menu bar". Then, click Develop -> Show Web Inspector.
-5.  Navigate to the `Console` tab.
-    
-6.  Type `allow pasting` to enable pasting in the console.
+6.  Type `allow pasting`, Hit **Enter** to enable pasting in the console.
     
 7.  Copy and paste the provided code into the console and press Enter:
     
@@ -57,9 +53,9 @@ if(!quest) {
 }
 ```
 
-8.  Keep the stream running for 15 minutes.
+8.  Keep the stream running for the time mentioned in the quest or until the quest progress fills out (usually 15 minutes).
     
-9.  Once the quest is completed, you can claim the reward by going to User Settings -> Gift Inventory.
+9.  Once the quest is completed, you can claim the reward by going to **User Settings** -> **Gift Inventory**.
     
 
 Monitoring Progress:
@@ -71,8 +67,6 @@ To track the progress of the quest:
 *   Reopen the Gift Inventory tab in User Settings to see the updated progress.
 
 The progress should update every 30 seconds.
-
-Note: You don't need any viewers watching your stream for this script to work. You can be alone in the voice channel.
 
 <p align="center">
   <a href="https://discord.com/users/1188569749068718234" target="_blank"><img src="https://lanyard.cnrad.dev/api/1188569749068718234?hideActivity=true" alt="Discord Presence" style="max-width: 100%;"></a>
